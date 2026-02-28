@@ -31,4 +31,6 @@
   <Project Path="ex030/ex030.csproj" Id="672e7e6b-8043-4e0d-80aa-98bfc37e1799" />
   <Project Path="ex031/ex031.csproj" Id="0b31ec3c-f4e9-4799-8c24-904215598cf3" />
   <Project Path="ex032/ex032.csproj" Id="5ee946e2-7b45-4c3a-82a5-8a6c6dc946cd" />
+  <Project Path="ex033/ex033.csproj" Id="bd877339-2a2a-4e2f-a01e-d2b687ca7ff8" />
+  <Project Path="ex034/ex034.csproj" Id="8ac0301b-ab68-4b92-bf68-4e0dbac3808e" />
 </Solution>
