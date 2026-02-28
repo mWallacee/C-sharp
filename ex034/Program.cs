@@ -1,4 +1,5 @@
 ﻿// Aumento de Salário
+
 Console.Write("Qual é o salário atual? R$");
 double Salario = double.Parse(Console.ReadLine());
 
