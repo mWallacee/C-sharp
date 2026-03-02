@@ -1,0 +1,3 @@
+﻿// Jokenpo
+
+Console.Write("");
