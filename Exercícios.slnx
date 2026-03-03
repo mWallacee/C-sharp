@@ -42,5 +42,7 @@
   <Project Path="ex041/ex041.csproj" Id="7be0033f-02b5-4a82-92cd-6e8af8dbaa32" />
   <Project Path="ex042/ex042.csproj" Id="659f7707-1ee7-4037-a618-282854ae2aed" />
   <Project Path="ex043/ex043.csproj" Id="0faaf4c0-ef98-4deb-85e4-58f29a64648c" />
+  <Project Path="ex044.1 (com switch case)/ex044 (com switch case).csproj" Id="c5656c99-2672-46b2-8f56-652e56c681ff" />
   <Project Path="ex044/ex044.csproj" Id="5b481b98-08b2-4914-8246-29dcad75e0a7" />
+  <Project Path="ex045 (Jokenpo)/ex045 (Jokenpo).csproj" Id="ab54bf48-8bcf-465f-9206-1231b8366466" />
 </Solution>
