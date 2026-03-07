@@ -45,4 +45,14 @@
   <Project Path="ex044.1 (com switch case)/ex044 (com switch case).csproj" Id="c5656c99-2672-46b2-8f56-652e56c681ff" />
   <Project Path="ex044/ex044.csproj" Id="5b481b98-08b2-4914-8246-29dcad75e0a7" />
   <Project Path="ex045 (Jokenpo)/ex045 (Jokenpo).csproj" Id="ab54bf48-8bcf-465f-9206-1231b8366466" />
+  <Project Path="ex046/ex046.csproj" Id="de4fffd4-9737-4d26-a5f9-12147ad869bb" />
+  <Project Path="ex047/ex047.csproj" Id="b8e18d7f-d163-4cf6-95ba-047fc21bbe17" />
+  <Project Path="ex048/ex048.csproj" Id="64798a1c-6a04-41a1-838c-cf11ee23ebbb" />
+  <Project Path="ex049/ex049.csproj" Id="42801444-4b77-4705-8794-2f8bbf8b8ba9" />
+  <Project Path="ex050/ex050.csproj" Id="53acb84e-206e-4987-a8e3-0992b117eb99" />
+  <Project Path="ex051/ex051.csproj" Id="65b4f6fa-bc63-4845-864d-26bef4ac849f" />
+  <Project Path="ex052/ex052.csproj" Id="0e2dbe03-25f2-46cb-9e0b-2f48c3513884" />
+  <Project Path="ex053/ex053.csproj" Id="f9c141dd-fdb6-48fc-ae15-36fec5db9cb7" />
+  <Project Path="ex054/ex054.csproj" Id="7f29b805-b69e-48c1-aa96-0b5dacf8bc0f" />
+  <Project Path="ex055/ex055.csproj" Id="33f62d19-7c7d-4b63-9f7f-71c663bfe727" />
 </Solution>

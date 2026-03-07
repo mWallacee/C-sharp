@@ -33,7 +33,7 @@ switch (pagamento){
 
         total = price * 1.20;
 
-        Console.WriteLine($"Sua compra será parcela em {parcelas}x de R${total / parcelas:F2} COM JUROS!");
+        Console.WriteLine($"Sua compra será parcelada em {parcelas}x de R${total / parcelas:F2} COM JUROS!");
         break;
     default:
         Console.WriteLine("FORMA DE PAGAMENTO INVÁLIDA");  
