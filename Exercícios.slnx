@@ -1,59 +1,60 @@
 <Solution>
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex001/ex001.csproj" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex002/ex002.csproj" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex003/ex003.csproj" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex004/ex004.csproj" Id="a1b1a449-8e40-4d7f-8633-18ca0048330c" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex005/ex005.csproj" Id="866bdbde-3df6-42c4-9291-a4e3ec704cc3" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex006/ex006.csproj" Id="cc5b8389-a98d-4564-a43a-b51abbc94ddc" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex007/ex007.csproj" Id="d31734e8-7678-4ff3-a2ed-575e502754c0" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex008/ex008.csproj" Id="8a400bc8-9e2d-4159-b843-18822b6d5e83" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex009/ex009.csproj" Id="cedfbb1b-226a-4627-a63c-a1dc61c8fb53" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex010/ex010.csproj" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex011/ex011.csproj" Id="8fa60748-85a5-4607-8393-89a327db8c39" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex012/ex012.csproj" Id="f75925ac-a184-4620-ad22-1955a390e357" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex013/ex013.csproj" Id="e1253065-7d95-4cf4-8d04-96bc30b1995a" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex014/ex014.csproj" Id="978a20c1-647e-4d7d-87b8-082eecd28fe8" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex015/ex015.csproj" Id="120522b5-f35d-4343-9ddd-3ed74bee718d" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex016/ex016.csproj" Id="84c3a2de-a743-4b7d-8550-8d5140429f79" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex017/ex017.csproj" Id="1fdc5e8d-e9b1-4b0e-a78a-6b51c9aa241f" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex018/ex018.csproj" Id="2ccb9f70-cc76-46af-9b47-59ec6e21ecff" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex019/ex019.csproj" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex020/ex020.csproj" Id="18a580ad-5945-4499-8b96-660e914d876c" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex021/ex021.csproj" Id="9ee3fde9-9d5d-4886-9572-0963e240caf4" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex022/ex022.csproj" Id="7890d5e9-7db6-40b7-b64f-8cb618bec882" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex023/ex023.csproj" Id="aa748f58-951f-4b84-b206-66c971cadfe4" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex024/ex024.csproj" Id="bc12b4b5-5d5e-4924-8135-845867faa286" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex025/ex025.csproj" Id="ce7cd9f8-fc44-4b97-87a7-5c28c4451290" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex026/ex026.csproj" Id="7b6e96d3-e167-4374-86ae-5cc40804bdd6" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex027/ex027.csproj" Id="5b5919c6-8f0e-4075-be6a-77f605950c06" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex028/ex028.csproj" Id="f03b4aa0-10d9-481f-a5d2-43ceb336031d" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex029/ex029.csproj" Id="3678778c-7167-49aa-94c5-09ea9cb06b2c" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex030/ex030.csproj" Id="672e7e6b-8043-4e0d-80aa-98bfc37e1799" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex031/ex031.csproj" Id="0b31ec3c-f4e9-4799-8c24-904215598cf3" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex032/ex032.csproj" Id="5ee946e2-7b45-4c3a-82a5-8a6c6dc946cd" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex033/ex033.csproj" Id="bd877339-2a2a-4e2f-a01e-d2b687ca7ff8" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex034/ex034.csproj" Id="8ac0301b-ab68-4b92-bf68-4e0dbac3808e" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex035/ex035.csproj" Id="48cbef2b-eeac-4326-abc3-5085fd377afe" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex036/ex036.csproj" Id="7de127b1-6067-49f6-bd09-ea922286b306" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex037/ex037.csproj" Id="6377b746-b490-4510-bff4-f6376d16c693" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex038/ex038.csproj" Id="904f395b-1e44-4fc4-8245-8147254fb5ab" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex039/ex039.csproj" Id="30f754fd-da30-4bec-abee-9a37ec490ea9" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex040/ex040.csproj" Id="6a55aa16-c6d4-4b8d-9143-89b3a01edbb1" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex041/ex041.csproj" Id="7be0033f-02b5-4a82-92cd-6e8af8dbaa32" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex042/ex042.csproj" Id="659f7707-1ee7-4037-a618-282854ae2aed" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex043/ex043.csproj" Id="0faaf4c0-ef98-4deb-85e4-58f29a64648c" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex044.1 (com switch case)/ex044 (com switch case).csproj" Id="c5656c99-2672-46b2-8f56-652e56c681ff" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex044/ex044.csproj" Id="5b481b98-08b2-4914-8246-29dcad75e0a7" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex045 (Jokenpo)/ex045 (Jokenpo).csproj" Id="ab54bf48-8bcf-465f-9206-1231b8366466" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex046/ex046.csproj" Id="de4fffd4-9737-4d26-a5f9-12147ad869bb" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex047/ex047.csproj" Id="b8e18d7f-d163-4cf6-95ba-047fc21bbe17" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex048/ex048.csproj" Id="64798a1c-6a04-41a1-838c-cf11ee23ebbb" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex049/ex049.csproj" Id="42801444-4b77-4705-8794-2f8bbf8b8ba9" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex050/ex050.csproj" Id="53acb84e-206e-4987-a8e3-0992b117eb99" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex051/ex051.csproj" Id="65b4f6fa-bc63-4845-864d-26bef4ac849f" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex052/ex052.csproj" Id="0e2dbe03-25f2-46cb-9e0b-2f48c3513884" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex053/ex053.csproj" Id="f9c141dd-fdb6-48fc-ae15-36fec5db9cb7" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex054/ex054.csproj" Id="7f29b805-b69e-48c1-aa96-0b5dacf8bc0f" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex055/ex055.csproj" Id="33f62d19-7c7d-4b63-9f7f-71c663bfe727" />
-  <Project Path="../../../../../../../../Estudos/C-sharp/Exercícios/ex056/ex056.csproj" Id="5d41105f-0da6-429b-afe1-7c5664f8837d" />
+  <Project Path="ex001/ex001.csproj" />
+  <Project Path="ex002/ex002.csproj" />
+  <Project Path="ex003/ex003.csproj" />
+  <Project Path="ex004/ex004.csproj" Id="a1b1a449-8e40-4d7f-8633-18ca0048330c" />
+  <Project Path="ex005/ex005.csproj" Id="866bdbde-3df6-42c4-9291-a4e3ec704cc3" />
+  <Project Path="ex006/ex006.csproj" Id="cc5b8389-a98d-4564-a43a-b51abbc94ddc" />
+  <Project Path="ex007/ex007.csproj" Id="d31734e8-7678-4ff3-a2ed-575e502754c0" />
+  <Project Path="ex008/ex008.csproj" Id="8a400bc8-9e2d-4159-b843-18822b6d5e83" />
+  <Project Path="ex009/ex009.csproj" Id="cedfbb1b-226a-4627-a63c-a1dc61c8fb53" />
+  <Project Path="ex010/ex010.csproj" />
+  <Project Path="ex011/ex011.csproj" Id="8fa60748-85a5-4607-8393-89a327db8c39" />
+  <Project Path="ex012/ex012.csproj" Id="f75925ac-a184-4620-ad22-1955a390e357" />
+  <Project Path="ex013/ex013.csproj" Id="e1253065-7d95-4cf4-8d04-96bc30b1995a" />
+  <Project Path="ex014/ex014.csproj" Id="978a20c1-647e-4d7d-87b8-082eecd28fe8" />
+  <Project Path="ex015/ex015.csproj" Id="120522b5-f35d-4343-9ddd-3ed74bee718d" />
+  <Project Path="ex016/ex016.csproj" Id="84c3a2de-a743-4b7d-8550-8d5140429f79" />
+  <Project Path="ex017/ex017.csproj" Id="1fdc5e8d-e9b1-4b0e-a78a-6b51c9aa241f" />
+  <Project Path="ex018/ex018.csproj" Id="2ccb9f70-cc76-46af-9b47-59ec6e21ecff" />
+  <Project Path="ex019/ex019.csproj" />
+  <Project Path="ex020/ex020.csproj" Id="18a580ad-5945-4499-8b96-660e914d876c" />
+  <Project Path="ex021/ex021.csproj" Id="9ee3fde9-9d5d-4886-9572-0963e240caf4" />
+  <Project Path="ex022/ex022.csproj" Id="7890d5e9-7db6-40b7-b64f-8cb618bec882" />
+  <Project Path="ex023/ex023.csproj" Id="aa748f58-951f-4b84-b206-66c971cadfe4" />
+  <Project Path="ex024/ex024.csproj" Id="bc12b4b5-5d5e-4924-8135-845867faa286" />
+  <Project Path="ex025/ex025.csproj" Id="ce7cd9f8-fc44-4b97-87a7-5c28c4451290" />
+  <Project Path="ex026/ex026.csproj" Id="7b6e96d3-e167-4374-86ae-5cc40804bdd6" />
+  <Project Path="ex027/ex027.csproj" Id="5b5919c6-8f0e-4075-be6a-77f605950c06" />
+  <Project Path="ex028/ex028.csproj" Id="f03b4aa0-10d9-481f-a5d2-43ceb336031d" />
+  <Project Path="ex029/ex029.csproj" Id="3678778c-7167-49aa-94c5-09ea9cb06b2c" />
+  <Project Path="ex030/ex030.csproj" Id="672e7e6b-8043-4e0d-80aa-98bfc37e1799" />
+  <Project Path="ex031/ex031.csproj" Id="0b31ec3c-f4e9-4799-8c24-904215598cf3" />
+  <Project Path="ex032/ex032.csproj" Id="5ee946e2-7b45-4c3a-82a5-8a6c6dc946cd" />
+  <Project Path="ex033/ex033.csproj" Id="bd877339-2a2a-4e2f-a01e-d2b687ca7ff8" />
+  <Project Path="ex034/ex034.csproj" Id="8ac0301b-ab68-4b92-bf68-4e0dbac3808e" />
+  <Project Path="ex035/ex035.csproj" Id="48cbef2b-eeac-4326-abc3-5085fd377afe" />
+  <Project Path="ex036/ex036.csproj" Id="7de127b1-6067-49f6-bd09-ea922286b306" />
+  <Project Path="ex037/ex037.csproj" Id="6377b746-b490-4510-bff4-f6376d16c693" />
+  <Project Path="ex038/ex038.csproj" Id="904f395b-1e44-4fc4-8245-8147254fb5ab" />
+  <Project Path="ex039/ex039.csproj" Id="30f754fd-da30-4bec-abee-9a37ec490ea9" />
+  <Project Path="ex040/ex040.csproj" Id="6a55aa16-c6d4-4b8d-9143-89b3a01edbb1" />
+  <Project Path="ex041/ex041.csproj" Id="7be0033f-02b5-4a82-92cd-6e8af8dbaa32" />
+  <Project Path="ex042/ex042.csproj" Id="659f7707-1ee7-4037-a618-282854ae2aed" />
+  <Project Path="ex043/ex043.csproj" Id="0faaf4c0-ef98-4deb-85e4-58f29a64648c" />
+  <Project Path="ex044.1 (com switch case)/ex044 (com switch case).csproj" Id="c5656c99-2672-46b2-8f56-652e56c681ff" />
+  <Project Path="ex044/ex044.csproj" Id="5b481b98-08b2-4914-8246-29dcad75e0a7" />
+  <Project Path="ex045 (Jokenpo)/ex045 (Jokenpo).csproj" Id="ab54bf48-8bcf-465f-9206-1231b8366466" />
+  <Project Path="ex046/ex046.csproj" Id="de4fffd4-9737-4d26-a5f9-12147ad869bb" />
+  <Project Path="ex047/ex047.csproj" Id="b8e18d7f-d163-4cf6-95ba-047fc21bbe17" />
+  <Project Path="ex048/ex048.csproj" Id="64798a1c-6a04-41a1-838c-cf11ee23ebbb" />
+  <Project Path="ex049/ex049.csproj" Id="42801444-4b77-4705-8794-2f8bbf8b8ba9" />
+  <Project Path="ex050/ex050.csproj" Id="53acb84e-206e-4987-a8e3-0992b117eb99" />
+  <Project Path="ex051/ex051.csproj" Id="65b4f6fa-bc63-4845-864d-26bef4ac849f" />
+  <Project Path="ex052/ex052.csproj" Id="0e2dbe03-25f2-46cb-9e0b-2f48c3513884" />
+  <Project Path="ex053/ex053.csproj" Id="f9c141dd-fdb6-48fc-ae15-36fec5db9cb7" />
+  <Project Path="ex054/ex054.csproj" Id="7f29b805-b69e-48c1-aa96-0b5dacf8bc0f" />
+  <Project Path="ex055/ex055.csproj" Id="33f62d19-7c7d-4b63-9f7f-71c663bfe727" />
+  <Project Path="ex056/ex056.csproj" Id="5d41105f-0da6-429b-afe1-7c5664f8837d" />
+  <Project Path="ex057/ex057.csproj" Id="ec42dd2a-a16f-4f8c-a90a-ef1c2d9ac583" />
 </Solution>
