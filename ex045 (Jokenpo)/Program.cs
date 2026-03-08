@@ -25,11 +25,11 @@ int PlayerJogada = int.Parse(Console.ReadLine());
 
 Console.ForegroundColor = ConsoleColor.DarkBlue;
 await Task.Delay(1000);
-Console.WriteLine("\nJO");
+Console.Write("\nJO");
 await Task.Delay(1000);
-Console.WriteLine("KEN");
+Console.Write("KEN");
 await Task.Delay(1500);
-Console.WriteLine("PO!!!");
+Console.Write("PO!!!\n");
 Console.ResetColor();
 
 Console.WriteLine("\n~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=");
@@ -86,4 +86,3 @@ switch (PcJogada)
         }
         break;
 }
-
