@@ -57,4 +57,9 @@
   <Project Path="ex055/ex055.csproj" Id="33f62d19-7c7d-4b63-9f7f-71c663bfe727" />
   <Project Path="ex056/ex056.csproj" Id="5d41105f-0da6-429b-afe1-7c5664f8837d" />
   <Project Path="ex057/ex057.csproj" Id="ec42dd2a-a16f-4f8c-a90a-ef1c2d9ac583" />
+  <Project Path="ex058/ex058.csproj" Id="f5c01e2d-852d-4844-a529-99d79c9cb781" />
+  <Project Path="ex059/ex059.csproj" Id="5c6bd129-d14a-41a8-b626-413fd54e5826" />
+  <Project Path="ex060 (com while)/ex060 (com while).csproj" Id="9e87edbf-0398-44bd-b7f4-89f2e8ff2510" />
+  <Project Path="ex060/ex060.csproj" Id="539d5669-5af5-404b-b401-b7af5fc97a85" />
+  <Project Path="ex061/ex061.csproj" Id="b02a15d8-a70e-4b5f-8617-5a68b788a2e5" />
 </Solution>
