@@ -1,4 +1,4 @@
-﻿// Progressão Aritimética v2.0
+﻿// Progressão Aritimética v3.0
 
 int contador = 0;
 
