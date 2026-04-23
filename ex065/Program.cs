@@ -1,4 +1,4 @@
-﻿//Maior e menor Val
+﻿// Maior e menor Valores
 
 int number = 0;
 int quantidade = 0;
@@ -6,9 +6,7 @@ int soma = 0;
 int maior = 0;
 int menor = 0;
 
-bool parar = false;
-
-while (parar == false)
+while (true)
 {
     Console.Write("Digite um número: ");
     number = int.Parse(Console.ReadLine());
@@ -29,11 +27,11 @@ while (parar == false)
     soma += number;
 
     Console.Write("Quer continuar? [S/N]: ");
-    String resposta = Console.ReadLine().ToUpper().Trim();
+    string resposta = Console.ReadLine().ToUpper().Trim();
 
     Console.WriteLine();
 
-    if (resposta == "N")
+    if (resposta == "N") //poderia usar o startsWith para caso coloquem "não" e tals
         break;
 }
 
