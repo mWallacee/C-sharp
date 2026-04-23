@@ -63,4 +63,7 @@
   <Project Path="ex060/ex060 (com for).csproj" Id="539d5669-5af5-404b-b401-b7af5fc97a85" />
   <Project Path="ex061/ex061.csproj" Id="b02a15d8-a70e-4b5f-8617-5a68b788a2e5" />
   <Project Path="ex062/ex062.csproj" Id="e86785ea-edbd-416a-9d20-7123a0e19d5d" />
+  <Project Path="ex063/ex063.csproj" Id="3bf6cca1-413b-4c0e-adc5-9adbe995dd01" />
+  <Project Path="ex064/ex064.csproj" Id="87e14abe-a9cd-4ee4-a37e-bbdec814d33e" />
+  <Project Path="ex065/ex065.csproj" Id="60cd997f-7fd1-46bf-ba2c-bb2007c28253" />
 </Solution>
